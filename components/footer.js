@@ -32,7 +32,7 @@ export default class Footer extends Component {
 					</div>
 					<div className="column-3">
 						<p>Κατηγορίες</p>
-                        <ul className="categories-footer-list" style={{fontFamily: `'GFS Didot', serif`}}>
+                        <ul className="categories-footer-list">
                             <li>
                                 Γάμος
                             </li>
