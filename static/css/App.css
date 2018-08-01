@@ -72,10 +72,10 @@ html {
 }
 
 .wepb #three-grid .left{
-    background: url('/static/images/to-nyfi.webp');
+    background-image: url('/static/images/to-nyfi.webp');
 }
 .no-webp #three-grid .left{
-    background: url('/static/images/to-nyfi.jpg');
+    background-image: url('/static/images/to-nyfi.jpg');
 }
 #three-grid .left {
 	background-attachment: scroll;
@@ -86,10 +86,10 @@ html {
 }
 
  .webp #three-grid .first-right{
-    background: url('/static/images/ektyposeis.webp');
+    background-image: url('/static/images/ektyposeis.webp');
 }
  .no-webp #three-grid .first-right{
-    background: url('/static/images/ektyposeis.jpg');
+    background-image: url('/static/images/ektyposeis.jpg');
 }
 #three-grid .first-right {
 	background-attachment: scroll;
@@ -99,10 +99,10 @@ html {
 }
 
  .webp #three-grid .two-right{
-    background: url('/static/images/veres-sto-deksi.webp');
+    background-image: url('/static/images/veres-sto-deksi.webp');
 }
  .no-webp #three-grid .two-right{
-    background: url('/static/images/veres-sto-deksi.jpg');
+    background-image: url('/static/images/veres-sto-deksi.jpg');
 }
 #three-grid .two-right {
 	background-attachment: scroll;
@@ -193,10 +193,10 @@ html {
 }
 
  .webp #head-image{
-    background: url('/static/images/head-image.webp');
+    background-image: url('/static/images/head-image.webp');
 }
  .no-webp #head-image{
-    background: url('/static/images/head-image.jpg');
+    background-image: url('/static/images/head-image.jpg');
 }
 #head-image {
 	background-attachment: scroll;
@@ -207,10 +207,10 @@ html {
 	overflow: hidden;
 }
  .webp #large-image{
-    background: url('/static/images/large-image.webp');
+    background-image: url('/static/images/large-image.webp');
 }
  .no-webp #large-image{
-    background: url('/static/images/large-image.jpg');
+    background-image: url('/static/images/large-image.jpg');
 }
 #large-image {
 	background-attachment: scroll;
