@@ -23,7 +23,6 @@ html {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: url('/static/images/logo.png');
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
@@ -72,8 +71,13 @@ html {
 	grid-gap: 10px;
 }
 
+#three-grid .left .wepb{
+    background: url('/static/images/to-nyfi.webp');
+}
+#three-grid .left .no-webp{
+    background: url('/static/images/to-nyfi.jpg');
+}
 #three-grid .left {
-	background: url('/static/images/to-nyfi.jpg?webp');
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
@@ -81,16 +85,26 @@ html {
 	grid-row: span 2;
 }
 
+#three-grid .first-right .webp{
+    background: url('/static/images/ektyposeis.webp');
+}
+#three-grid .first-right .no-webp{
+    background: url('/static/images/ektyposeis.jpg');
+}
 #three-grid .first-right {
-	background: url('/static/images/ektyposeis.jpg?webp');
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
+#three-grid .two-right .webp{
+    background: url('/static/images/veres-sto-deksi.webp');
+}
+#three-grid .two-right .no-webp{
+    background: url('/static/images/veres-sto-deksi.jpg');
+}
 #three-grid .two-right {
-	background: url('/static/images/veres-sto-deksi.jpg?webp');
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
@@ -178,8 +192,13 @@ html {
 	font-size: large;
 }
 
+#head-image .webp{
+    background: url('/static/images/head-image.webp');
+}
+#head-image .no-webp{
+    background: url('/static/images/head-image.jpg');
+}
 #head-image {
-	background: url('/static/images/head-image.jpg?webp');
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
@@ -187,8 +206,13 @@ html {
 	background-size: cover;
 	overflow: hidden;
 }
+#large-image .webp{
+    background: url('/static/images/large-image.webp');
+}
+#large-image .no-webp{
+    background: url('/static/images/large-image.jpg');
+}
 #large-image {
-	background: url('/static/images/large-image.jpg?webp');
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
