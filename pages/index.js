@@ -64,7 +64,7 @@ export default class Index extends Component {
 							<div ref={2} className="services-menu" style={{ backgroundImage: `url(/static/images/categories/babyshower.jpg?webp)` }}>
 								<li><a>Baby Shower</a></li>
 							</div>
-							<div ref={3} className="services-menu" style={{ backgroundImage: `url(/static/images/categories/paidika-party.jpg?webp)` }}>
+							<div ref={3} className="services-menu" style={{ backgroundImage: `url(/static/images/categories/paidika-parti.jpg?webp)` }}>
 								<li><a>Παιδικά Πάρτυ</a></li>
 							</div>
 							<div ref={4} className="services-menu" style={{ backgroundImage: `url(/static/images/categories/candybar.jpg?webp)` }}>

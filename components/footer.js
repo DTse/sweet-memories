@@ -21,7 +21,7 @@ export default class Footer extends Component {
 							<i className="fab fa-instagram" />
 							<p>Instagram</p>
 						</a>
-						<a href="https://www.facebook.com/kokkashoes/">
+						<a href="https://www.facebook.com/sweetmemoryevents/">
 							<i className="fab fa-facebook-f" />
 							<p>Facebook</p>
 						</a>
