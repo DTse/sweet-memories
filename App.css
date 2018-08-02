@@ -388,41 +388,41 @@ html {
 
 
 /* slider*/
-.no-webp .gamos{background-image: url('/static/images/categories/gamos.jpg');}
-.no-webp .vaptisi {background-image: url('/static/images/categories/vaftisos.jpg');}
-.no-webp .babyShower {background-image: url('/static/images/categories/babyshower.jpg');}
-.no-webp .paidikaParti {background-image: url('/static/images/categories/paidika-parti.jpg');}
-.no-webp .candyBar {background-image: url('/static/images/categories/candybar.jpg');}
-.no-webp .setVaft {background-image: url('/static/images/categories/set-vaft.jpg');}
-.no-webp .skafi {background-image: url('/static/images/categories/polyteli-skafi.jpg');}
-.no-webp .mousiki {background-image: url('/static/images/categories/mousiki.jpg');}
-.no-webp .fotoVideo {background-image: url('/static/images/categories/foto-video.jpg');}
-.no-webp .prosklitiria {background-image: url('/static/images/categories/prosklitiria.jpg');}
-.no-webp .louloudia {background-image: url('/static/images/categories/louloudia.jpg');}
-.no-webp .setGamos {background-image: url('/static/images/categories/set-gamos.jpg');}
-.no-webp .prepBride {background-image: url('/static/images/categories/prep-bride.jpg');}
-.no-webp .mpomponieres {background-image: url('/static/images/categories/mpomponieres.jpg');}
-.no-webp .etairikaEevnt {background-image: url('/static/images/categories/etairika-event.jpg');}
-.no-webp .stolismos {background-image: url('/static/images/categories/stolismos.jpg');}
-.no-webp .bachelor {background-image: url('/static/images/categories/bachelor.jpg');}
+.no-webp div.gamos{background-image: url('/static/images/categories/gamos.jpg');}
+.no-webp div.vaptisi {background-image: url('/static/images/categories/vaftisos.jpg');}
+.no-webp div.babyShower {background-image: url('/static/images/categories/babyshower.jpg');}
+.no-webp div.paidikaParti {background-image: url('/static/images/categories/paidika-parti.jpg');}
+.no-webp div.candyBar {background-image: url('/static/images/categories/candybar.jpg');}
+.no-webp div.setVaft {background-image: url('/static/images/categories/set-vaft.jpg');}
+.no-webp div.skafi {background-image: url('/static/images/categories/polyteli-skafi.jpg');}
+.no-webp div.mousiki {background-image: url('/static/images/categories/mousiki.jpg');}
+.no-webp div.fotoVideo {background-image: url('/static/images/categories/foto-video.jpg');}
+.no-webp div.prosklitiria {background-image: url('/static/images/categories/prosklitiria.jpg');}
+.no-webp div.louloudia {background-image: url('/static/images/categories/louloudia.jpg');}
+.no-webp div.setGamos {background-image: url('/static/images/categories/set-gamos.jpg');}
+.no-webp div.prepBride {background-image: url('/static/images/categories/prep-bride.jpg');}
+.no-webp div.mpomponieres {background-image: url('/static/images/categories/mpomponieres.jpg');}
+.no-webp div.etairikaEevnt {background-image: url('/static/images/categories/etairika-event.jpg');}
+.no-webp div.stolismos {background-image: url('/static/images/categories/stolismos.jpg');}
+.no-webp div.bachelor {background-image: url('/static/images/categories/bachelor.jpg');}
 
-.webp .gamos{background-image: url('/static/images/categories/gamos.webp');}
-.webp .vaptisi {background-image: url('/static/images/categories/vaftisos.webp');}
-.webp .babyShower {background-image: url('/static/images/categories/babyshower.webp');}
-.webp .paidikaParti {background-image: url('/static/images/categories/paidika-parti.webp');}
-.webp .candyBar {background-image: url('/static/images/categories/candybar.webp');}
-.webp .setVaft {background-image: url('/static/images/categories/set-vaft.webp');}
-.webp .skafi {background-image: url('/static/images/categories/polyteli-skafi.webp');}
-.webp .mousiki {background-image: url('/static/images/categories/mousiki.webp');}
-.webp .fotoVideo {background-image: url('/static/images/categories/foto-video.webp');}
-.webp .prosklitiria {background-image: url('/static/images/categories/prosklitiria.webp');}
-.webp .louloudia {background-image: url('/static/images/categories/louloudia.webp');}
-.webp .setGamos {background-image: url('/static/images/categories/set-gamos.webp');}
-.webp .prepBride {background-image: url('/static/images/categories/prep-bride.webp');}
-.webp .mpomponieres {background-image: url('/static/images/categories/mpomponieres.webp');}
-.webp .etairikaEevnt {background-image: url('/static/images/categories/etairika-event.webp');}
-.webp .stolismos {background-image: url('/static/images/categories/stolismos.webp');}
-.webp .bachelor {background-image: url('/static/images/categories/bachelor.webp');}
+.webp div.gamos{background-image: url('/static/images/categories/gamos.webp');}
+.webp div.vaptisi {background-image: url('/static/images/categories/vaftisos.webp');}
+.webp div.babyShower {background-image: url('/static/images/categories/babyshower.webp');}
+.webp div.paidikaParti {background-image: url('/static/images/categories/paidika-parti.webp');}
+.webp div.candyBar {background-image: url('/static/images/categories/candybar.webp');}
+.webp div.setVaft {background-image: url('/static/images/categories/set-vaft.webp');}
+.webp div.skafi {background-image: url('/static/images/categories/polyteli-skafi.webp');}
+.webp div.mousiki {background-image: url('/static/images/categories/mousiki.webp');}
+.webp div.fotoVideo {background-image: url('/static/images/categories/foto-video.webp');}
+.webp div.prosklitiria {background-image: url('/static/images/categories/prosklitiria.webp');}
+.webp div.louloudia {background-image: url('/static/images/categories/louloudia.webp');}
+.webp div.setGamos {background-image: url('/static/images/categories/set-gamos.webp');}
+.webp div.prepBride {background-image: url('/static/images/categories/prep-bride.webp');}
+.webp div.mpomponieres {background-image: url('/static/images/categories/mpomponieres.webp');}
+.webp div.etairikaEevnt {background-image: url('/static/images/categories/etairika-event.webp');}
+.webp div.stolismos {background-image: url('/static/images/categories/stolismos.webp');}
+.webp div.bachelor {background-image: url('/static/images/categories/bachelor.webp');}
 
 .home-services {
 	font-size: 24px;
