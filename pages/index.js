@@ -55,55 +55,55 @@ export default class Index extends Component {
 					<div className="home-services">
                         <span onClick={() => { this.scrollThumbs(this.state.index - 1) }} className="scrollSpanLeft"><i className="fas fa-angle-left"></i></span>
 						<ul>
-							<div ref={0} className="services-menu gamos" style={{ backgroundImage: 'url(/static/images/categories/gamos'+ext+')' }}>
+							<div ref={0} className="services-menu gamos">
 								<li><a>Στολισμός Γάμου</a></li>
 							</div>
-							<div ref={1} className="services-menu vaptisi" style={{ backgroundImage: 'url(/static/images/categories/vaftisos'+ext+')' }}>
+							<div ref={1} className="services-menu vaptisi">
 								<li><a>Στολισμός Βάπτισης</a></li>
 							</div>
-							<div ref={2} className="services-menu babyShower" style={{ backgroundImage: 'url(/static/images/categories/babyshower'+ext+')' }}>
+							<div ref={2} className="services-menu babyShower">
 								<li><a>Baby Shower</a></li>
 							</div>
-							<div ref={3} className="services-menu paidikaParti" style={{ backgroundImage: 'url(/static/images/categories/paidika-parti'+ext+')' }}>
+							<div ref={3} className="services-menu paidikaParti">
 								<li><a>Παιδικά Πάρτυ</a></li>
 							</div>
-							<div ref={4} className="services-menu candyBar" style={{ backgroundImage: 'url(/static/images/categories/candybar'+ext+')' }}>
+							<div ref={4} className="services-menu candyBar">
 								<li><a>Candybar</a></li>
 							</div>
-							<div ref={5} className="services-menu setVaft" style={{ backgroundImage: 'url(/static/images/categories/set-vaft'+ext+')' }}>
+							<div ref={5} className="services-menu setVaft">
 								<li><a>Χειροποίητα Σέτ Βαπτιστικών</a></li>
 							</div>
-							<div ref={6} className="services-menu skafi" style={{ backgroundImage: 'url(/static/images/categories/polyteli-skafi'+ext+')' }}>
+							<div ref={6} className="services-menu skafi">
 								<li><a>Πολυτελή αυτοκίνητα & παραδοσιακά σκάφη</a></li>
 							</div>
-							<div ref={7} className="services-menu mousiki" style={{ backgroundImage: 'url(/static/images/categories/mousiki'+ext+')' }}>
+							<div ref={7} className="services-menu mousiki">
 								<li><a>Mουσική κάλυψη & DJs</a></li>
 							</div>
-							<div ref={8} className="services-menu fotoVideo" style={{ backgroundImage: 'url(/static/images/categories/foto-video'+ext+')' }}>
+							<div ref={8} className="services-menu fotoVideo">
 								<li><a>Φωτογραφική κάλυψη & Video</a></li>
 							</div>
-							<div ref={9} className="services-menu prosklitiria" style={{ backgroundImage: 'url(/static/images/categories/prosklitiria'+ext+')' }}>
+							<div ref={9} className="services-menu prosklitiria">
 								<li><a>Εκτυπώσεις(Προσκλητήρια, albums κ.α.)</a></li>
 							</div>
-							<div ref={10} className="services-menu louloudia" style={{ backgroundImage: 'url(/static/images/categories/louloudia'+ext+')' }}>
+							<div ref={10} className="services-menu louloudia">
 								<li><a>Ανθοστολισμός & Νυφική ανθοδέσμη</a></li>
 							</div>
-							<div ref={11} className="services-menu setGamos" style={{ backgroundImage: 'url(/static/images/categories/set-gamos'+ext+')' }}>
+							<div ref={11} className="services-menu setGamos">
 								<li><a>Χειροποίητα σετ γάμου (δίσκος, καραφα, ποτήρι, στέφανα)</a></li>
 							</div>
-							<div ref={12} className="services-menu prepBride" style={{ backgroundImage: 'url(/static/images/categories/prep-bride'+ext+')' }}>
+							<div ref={12} className="services-menu prepBride">
 								<li><a>Προετοιμασία νύφης - Make up art</a></li>
 							</div>
-							<div ref={13} className="services-menu mpomponieres" style={{ backgroundImage: 'url(/static/images/categories/mpomponieres'+ext+')' }}>
+							<div ref={13} className="services-menu mpomponieres">
 								<li><a>Χειροποίητες μπομπονιέρες</a></li>
 							</div>
-							<div ref={14} className="services-menu etairikaEevnt" style={{ backgroundImage: 'url(/static/images/categories/etairika-event'+ext+')' }}>
+							<div ref={14} className="services-menu etairikaEevnt">
 								<li><a>Εταιρικά event</a></li>
 							</div>
-							<div ref={15} className="services-menu stolismos" style={{ backgroundImage: 'url(/static/images/categories/stolismos'+ext+')' }}>
+							<div ref={15} className="services-menu stolismos">
 								<li><a>Στολισμός δεξίωσης & διακόσμησης τραπεζίων</a></li>
 							</div>
-							<div ref={16} className="services-menu bachelor" style={{ backgroundImage: 'url(/static/images/categories/bachelor'+ext+')' }}>
+							<div ref={16} className="services-menu bachelor">
 								<li><a>Bachelor Party</a></li>
 							</div>
 						</ul>
