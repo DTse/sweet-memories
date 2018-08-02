@@ -25,7 +25,7 @@ export default class Index extends Component {
 	}
 
 	render() {
-        var webp = document.documentElement.classList.contains('webp');
+        var webp = root.documentElement.classList.contains('webp');
         var ext = web ? 'webp' : 'jpg';
 		return (
 			<div >
