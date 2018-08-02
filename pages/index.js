@@ -28,7 +28,7 @@ export default class Index extends Component {
 		return (
 			<div >
                 <Header />
-				<div id="three-grid">
+				<div class="three-grid">
 					<div className="left" />
 					<div className="first-right" />
 					<div className="two-right" />

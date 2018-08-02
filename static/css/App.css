@@ -60,7 +60,7 @@ html {
 	justify-content: space-evenly;
 }
 
-#three-grid {
+.three-grid {
 	height: 100vh;
 	padding: 100px 0px 20px 0px;
 	display: grid;
@@ -72,13 +72,13 @@ html {
 	grid-gap: 10px;
 }
 
- .wepb #three-grid .left{
+.wepb .three-grid .left{
     background-image: url('/static/images/to-nyfi.webp');
 }
- .no-webp #three-grid .left{
+.no-webp .three-grid .left{
     background-image: url('/static/images/to-nyfi.jpg');
 }
-#three-grid .left {
+.three-grid .left {
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
@@ -86,26 +86,26 @@ html {
 	grid-row: span 2;
 }
 
- .webp #three-grid .first-right{
+.webp .three-grid .first-right{
     background-image: url('/static/images/ektyposeis.webp');
 }
- .no-webp #three-grid .first-right{
+.no-webp .three-grid .first-right{
     background-image: url('/static/images/ektyposeis.jpg');
 }
-#three-grid .first-right {
+.three-grid .first-right {
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
- .webp #three-grid .two-right{
+.webp .three-grid .two-right{
     background-image: url('/static/images/veres-sto-deksi.webp');
 }
- .no-webp #three-grid .two-right{
+.no-webp .three-grid .two-right{
     background-image: url('/static/images/veres-sto-deksi.jpg');
 }
-#three-grid .two-right {
+.three-grid .two-right {
 	background-attachment: scroll;
 	background-position: 50%;
 	background-repeat: no-repeat;
