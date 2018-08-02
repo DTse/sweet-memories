@@ -18,7 +18,8 @@ html {
 }
 
 .logo {
-	transition: all 0.8s ease-in-out;
+    transition: all 0.8s ease-in-out;
+    background-image: url('/static/images/logo.png');
 	border-radius: 5%;
 	display: flex;
 	justify-content: center;
@@ -71,10 +72,10 @@ html {
 	grid-gap: 10px;
 }
 
-.wepb #three-grid .left{
+ .wepb #three-grid .left{
     background-image: url('/static/images/to-nyfi.webp');
 }
-.no-webp #three-grid .left{
+ .no-webp #three-grid .left{
     background-image: url('/static/images/to-nyfi.jpg');
 }
 #three-grid .left {
