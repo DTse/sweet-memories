@@ -8,6 +8,7 @@ import Footer from '../components/footer';
 
 import root from 'window-or-global';
 import Header from '../components/header';
+import Head from '../components/head';
 
 var initialIndex = Math.round((root.innerWidth - 10) / 300)-1
 
@@ -27,6 +28,7 @@ export default class Index extends Component {
 	render() {
 		return (
 			<div >
+				<Head/>
                 <Header />
 				<div class="three-grid">
 					<div className="left" />
