@@ -1,4 +1,6 @@
-import Document, { Head, Main, NextScript } from 'next/document'
+import Document, { Main, NextScript } from 'next/document';
+
+import Head from '../components/head';
 
 export default class MyDocument extends Document {
   render() {
