@@ -10,7 +10,7 @@ const Head = (props) => (
   <NextHead>
     <meta charset="UTF-8" />
     <title>{props.title || defaultTitle}</title>
-    <meta name="description" content={props.description || defaultDescription} />
+    <meta name="description" content={props.description || defaultDescription} key="viewport"/>
     <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png"/>
     <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png"/>
     <link rel="icon" type="image/png" sizes="194x194" href="/static/favicon-194x194.png"/>
