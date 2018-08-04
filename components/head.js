@@ -69,7 +69,7 @@ const Head = (props) => (
                                 }
                             `}</script>
   </NextHead>
-)
+) 
 
 Head.propTypes = {
   title: string,
