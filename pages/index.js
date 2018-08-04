@@ -28,6 +28,7 @@ export default class Index extends Component {
 	render() {
 		return (
 			<div >
+				<Head/>
                 <Header />
 				<div class="three-grid">
 					<div className="left" />
