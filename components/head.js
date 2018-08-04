@@ -54,7 +54,7 @@ const Head = (props) => (
                                           "contactType": "sales"
                                         }
                                       ],
-                                    "description": "${props.description || defaultDescriptio}",
+                                    "description": "${props.description || defaultDescription}",
                                     "name": "Sweet Memory",
                                     "image": "${defaultOGImage}",
                                     "telephone": "+30-210-3224460",
