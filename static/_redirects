@@ -1,0 +1,2 @@
+# Rewrite a path
+/robots.txt /static/robots.txt    200
